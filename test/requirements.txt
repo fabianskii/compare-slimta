@@ -1,0 +1,5 @@
+pytest
+pytest-cov
+mox3
+testfixtures
+flake8
